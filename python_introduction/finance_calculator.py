@@ -1,5 +1,5 @@
 # Define the variables
-monthly_income = float(input("Enter your monthly income :")) 
+monthly_income = input\s*\(\s*['\"]Enter your monthly income:\s*['\"]\s*\)
 total_monthly_expenses = float(input("Enter your total monthly expenses :"))                                
 
 # Calculate Monthly Savings:
